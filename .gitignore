@@ -5,7 +5,8 @@ bin-release/
 [Bb]in/
 
 # Other files and folders
-.settings/
+.json
+.yaml
 
 # Executables
 *.swf
