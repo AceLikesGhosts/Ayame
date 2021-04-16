@@ -6,7 +6,14 @@ A general purpose Discord bot created for AJ Unturned. licenced using the GNU 3.
 2. Install [NodeJS](https://nodejs.org/en/download/)
 3. Go into src/Ayame and change all variables in CONFIG._JSON
 4. Convert CONFIG._JSON to a proper JSON file.
+5. TS-Node Index.TS
 
+## Dependencies
+1. Typescript
+2. TS-Node
+3. Nodemon (Nodemon is not required.)
+4. @types/node
+5. Discord.JS
 
 # Features:
 ## Commands
