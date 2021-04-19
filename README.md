@@ -14,6 +14,7 @@ A general purpose Discord bot created for AJ Unturned. licenced using the GNU 3.
 3. Nodemon (Nodemon is not required.)
 4. @types/node
 5. Discord.JS
+6. Gamedig
 
 # Features:
 ## Commands
