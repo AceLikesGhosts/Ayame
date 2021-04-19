@@ -22,7 +22,6 @@ A general purpose Discord bot created for AJ Unturned. licenced using the GNU 3.
 Stats:
 - Displays memory used.
 - Displays uptime.
-- Displays how long the bot has been running.
 - Displays how many cached guilds/channels there are.
 - Displays what shard (0/0) the guild is on.
 
